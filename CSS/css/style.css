@@ -1,0 +1,38 @@
+h1{
+    color: blue;
+}
+
+li{
+    color: rgb(20, 200, 10);
+
+}
+
+p{
+    color: #f0cc62;
+}
+h4{
+    color: rgba(10, 255,255,100);
+}
+
+body{  
+    background : url(https://source.unsplash.com/random);
+    background-repeat: no-repeat;
+}
+
+/* div{
+    background: olive;
+    border: orangered;
+    border-width: thick;
+    border-style: solid;
+    bw
+} */
+
+div{
+    background: olive;
+    border: orangered 10px dashed;
+}
+
+span{
+    background: red;
+    color: black;
+}

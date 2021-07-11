@@ -1,0 +1,15 @@
+h1{
+    font-family: cursive;
+}
+
+p{
+    font-family: 'Zen Tokyo Zoo', cursive;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+#two{
+    font-family: monospace;
+    text-align: right;
+}

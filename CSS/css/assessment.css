@@ -1,0 +1,29 @@
+body{
+    background: url(https://source.unsplash.com/random);
+}
+h1{
+    font-family: monospace;
+}
+.someClass{
+    background: gray;
+    font-style: italic;
+}
+
+h2{
+    color: greenyellow;
+}
+
+form{
+    background: url(https://source.unsplash.com/random);
+}
+label{
+    color: indigo;
+    font-family: monospace;
+    font-style: bold;
+}
+
+ol{
+    color: lightseagreen;
+    font-family: cursive;
+}
+
